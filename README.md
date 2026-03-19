@@ -1,6 +1,3 @@
-# -C--Practice
-This repository contains my journey of learning C++, covering fundamentals, OOP concepts, and problem-solving with clear examples and practice questions.
-
 # 🚀 C++ Learning Repository
 
 This repository documents my journey of learning **C++** from basics to advanced concepts. It includes well-structured code, examples, and problem-solving approaches to strengthen programming and DSA skills.
